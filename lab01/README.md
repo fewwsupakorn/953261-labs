@@ -33,4 +33,4 @@ When I open a URL, the browser sends an HTTP request to the server. The server c
 
 ## AI-use statement 
 
-I used ChatGPT to help complete the routes and align the repository setup with the lab sheet. I reviewed the changes and will make sure I can explain the code to my TA.
+I used ChatGPT to help complete the routes and align the repository setup with the lab sheet.
