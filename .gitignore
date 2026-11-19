@@ -1,0 +1,11 @@
+# macOS and editor files
+.DS_Store
+.vscode/
+
+# Node.js dependencies and local secrets
+**/node_modules/
+**/.env
+
+# Keep the original nested lab repository history locally after converting
+# lab01 into a normal folder in the course repository.
+lab01/.git-backup/
